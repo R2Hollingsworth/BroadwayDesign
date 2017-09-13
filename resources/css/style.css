@@ -2,6 +2,9 @@ body{
   font-family: helvetica;
   text-align: center;
 }
+p{
+  font-size: 14px;
+}
 h1{
   font-size: 70px;
   font-weight: bold;
@@ -32,6 +35,10 @@ h3{
   color: white;
   background-color: dimgray;
   font-size: 11px
+}
+#footer p{
+color: white;
+font-size: 11px;
 }
 #footer a{
 color: white;
